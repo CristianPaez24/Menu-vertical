@@ -4,8 +4,8 @@ Un elegante y moderno menú lateral (sidebar) desplegable construido puramente c
 
 ##Preview 📷
 
-![Vista Previa del Login]()
-![Vista Previa del Login]()
+![Vista Previa Menu](https://github.com/CristianPaez24/Menu-vertical/blob/main/Preview-Menu-Lateral-1.png)
+![Vista Previa Menu](https://github.com/CristianPaez24/Menu-vertical/blob/main/Preview-Menu-Lateral-2.png)
 
 ## ✨ Características
 
